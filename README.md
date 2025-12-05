@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Guilherme Nanni</h1>
 
-<!--
-**guilhermenanni/guilhermenanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de TI • Suporte Técnico • Infraestrutura • Linux • Redes
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-nanni-46b3b5316/">
+    <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:guilhermenanni2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/guilhermenanni">
+    <img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+Sou estudante Técnico em Análise e Desenvolvimento de Sistemas, interessado nas áreas de **Suporte Técnico, TI, Infraestrutura, Redes e Linux**.
+
+Tenho facilidade para aprender, entender problemas e ajudar usuários. Busco minha primeira oportunidade profissional na área de tecnologia, sempre comprometido em evoluir e entregar meu melhor.
+
+---
+
+## 🔧 Tecnologias e Conhecimentos
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+<img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Redes-0052CC?style=for-the-badge&logo=cisco&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  
+
+</div>
+
+---
+
+## 🎯 Áreas de Interesse
+- Suporte Técnico / Help Desk  
+- Infraestrutura de TI  
+- Redes e conexões (TCP/IP, DNS, DHCP)  
+- Linux e administração básica de sistemas  
+- Segurança da Informação (conceitos iniciais)  
+
+---
+
+## 📌 Projeto em Destaque
+### 🔹 **DraftMe – Plataforma de Oportunidades Esportivas**
+Aplicativo mobile + site criados em equipe conectando atletas a seletivas esportivas.
+
+**Tecnologias:**
+React Native • Expo • TypeScript • HTML • CSS • JS • PHP • MySQL
+
+➡️ *Adicione o link do repositório aqui quando quiser.*
+
+---
+
+## 📊 Estatísticas (opcionais e automáticas)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermenanni&show_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenanni&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 📫 Contato
+📧 **E-mail:** guilhermenanni2008@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/guilherme-nanni-46b3b5316/
+
+---
+
+<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
