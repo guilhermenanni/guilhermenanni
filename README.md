@@ -55,22 +55,10 @@ Aplicativo mobile + site criados em equipe conectando atletas a seletivas esport
 **Tecnologias:**
 React Native • Expo • TypeScript • HTML • CSS • JS • PHP • MySQL
 
-➡️ *Adicione o link do repositório aqui quando quiser.*
-
----
-
-## 📊 Estatísticas (opcionais e automáticas)
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermenanni&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermenanni&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 📫 Contato
 📧 **E-mail:** guilhermenanni2008@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/guilherme-nanni-46b3b5316/
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
+
