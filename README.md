@@ -52,8 +52,6 @@ Tenho facilidade para aprender, entender problemas e ajudar usuários. Busco min
 ### 🔹 **DraftMe – Plataforma de Oportunidades Esportivas**
 Aplicativo mobile + site criados em equipe conectando atletas a seletivas esportivas.
 
-**Tecnologias:**
-React Native • Expo • TypeScript • HTML • CSS • JS • PHP • MySQL
 
 ## 📫 Contato
 📧 **E-mail:** guilhermenanni2008@gmail.com  
