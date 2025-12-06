@@ -68,7 +68,6 @@ Tecnologias: React Native, Expo, TypeScript, HTML, CSS, JavaScript, PHP e MySQL.
 - Procuro sempre melhorar e evoluir  
 - Curto Linux, redes e tudo que envolve tecnologia  
 - Tenho interesse real em construir carreira em TI  
-- Gosto de ambientes organizados e de resolver problemas para outras pessoas  
 
 ---
 
