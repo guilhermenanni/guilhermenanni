@@ -29,7 +29,6 @@ Sou Técnico em Análise e Desenvolvimento de Sistemas, com foco em **Suporte T�
 <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Redes-0052CC?style=for-the-badge&logo=cisco&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Segurança%20Básica-444?style=for-the-badge&logo=shield&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>  
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  
