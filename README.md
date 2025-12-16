@@ -38,21 +38,12 @@ Sou Técnico em Análise e Desenvolvimento de Sistemas, com foco em **Suporte T�
 
 ---
 
-## 📚 O que estou aprendendo agora
-- Conceitos de infraestrutura  
-- Redes (TCP/IP, DNS, DHCP, NAT)  
-- Linux no dia a dia  
-- Boas práticas de suporte e atendimento  
-- Fundamentos de segurança da informação  
-
----
 
 ## 🎯 Áreas de Interesse
 - Suporte Técnico / Help Desk  
 - Infraestrutura de TI  
 - Redes de computadores  
-- Linux e administração básica  
-- Segurança da Informação (iniciante)  
+- Linux e administração    
 
 ---
 
