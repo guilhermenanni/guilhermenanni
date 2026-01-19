@@ -62,7 +62,7 @@ Tecnologias: React Native, Expo, TypeScript, HTML, CSS, JavaScript, PHP e MySQL.
 ---
 
 ## 📫 Contato
-📧 **E-mail:** guilhermenanni2008@gmail.com  
+📧 **E-mail:** guilhermenann.dev@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/guilherme-nanni-46b3b5316/
 
 ---
