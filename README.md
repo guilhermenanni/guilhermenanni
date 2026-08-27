@@ -89,11 +89,3 @@ Também tenho conhecimento em **Linux, Windows, sistemas operacionais e redes**,
 ---
 
 ---
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermenanni/guilhermenanni/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
